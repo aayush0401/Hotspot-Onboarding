@@ -1,0 +1,12 @@
+{
+  "name": "hotspot_onboarding",
+  "short_name": "hotspot",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0E0E0E",
+  "theme_color": "#2196F3",
+  "description": "Hotspot Onboarding App",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": []
+}
